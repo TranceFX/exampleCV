@@ -1,0 +1,36 @@
+{
+	"firstName": "Reginald",
+	"lastName": "Fake",
+	"gender": "Male",
+	"dob": "1983-01-01",
+	"email": "fakeEmail@gmail.com",
+	"profileImage": "https://i.imgur.com/UYYsWaE.png",
+	"address": {
+		"streetAddress": "21 Fake Street",
+		"city": "New York City",
+		"state": "NY",
+		"zipOrPostal": "10021"
+	},
+	"phoneNumber": [{
+			"type": "home",
+			"number": "212 555-1234"
+		},
+		{
+			"type": "mobile",
+			"number": "646 555-4567"
+		}
+	],
+	"summary": "6 years of software development experience in J2EE, Portal and CMS system.",
+	"skills": {
+		"advanced": ["High-End Application Software: IBM Websphere Portal, Liferay Portal, Alfresco CMS system",
+			"Languages: Java, J2EE, Groovy",
+			"Frameworks: Spring, Seam, JEE5, JEE6, Hibernate, iBatis, JPA, Freemarker, XML, JSON",
+			"Tools: eclipse, RAD, TOAD, MAVEN, Ant, UML, ER-Diagram, jBPM"
+		],
+		"basic": ["High-End Application Software: IBM Websphere Portal, Liferay Portal, Alfresco CMS system",
+			"Languages: Java, J2EE, Groovy",
+			"Frameworks: Spring, Seam, JEE5, JEE6, Hibernate, iBatis, JPA, Freemarker, XML, JSON",
+			"Tools: eclipse, RAD, TOAD, MAVEN, Ant, UML, ER-Diagram, jBPM"
+		]
+	}
+}
