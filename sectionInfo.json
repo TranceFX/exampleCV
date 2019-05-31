@@ -1,0 +1,10 @@
+{
+  "sections" : [
+	{"nameSection" : "userInfo",
+	 "sectionURL" : "https://raw.githubusercontent.com/TranceFX/exampleCV/096038b96083bc55b54e5368e8ba54a91cae5b16/userInfo.json"
+	},
+	{"nameSection" : "jobInfo",
+	 "sectionURL" : "https://raw.githubusercontent.com/TranceFX/exampleCV/096038b96083bc55b54e5368e8ba54a91cae5b16/jobInfo.json"
+	}
+  ]
+}
