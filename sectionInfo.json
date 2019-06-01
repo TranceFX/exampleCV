@@ -1,9 +1,11 @@
 {
   "sections" : [
 	{"nameSection" : "userInfo",
+	 "displayName" : "My Information",
 	 "sectionURL" : "https://raw.githubusercontent.com/TranceFX/exampleCV/master/userInfo.json"
 	},
 	{"nameSection" : "jobInfo",
+	 "displayName" : "My Career",
 	 "sectionURL" : "https://raw.githubusercontent.com/TranceFX/exampleCV/master/jobInfo.json"
 	}
   ]
